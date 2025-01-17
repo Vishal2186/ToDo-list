@@ -42,10 +42,6 @@ int main(){
 
     todoItem.clear();
 
-    // ToDoItem test;
-    // test.create("this is a test");
-    // todoItem.push_back(test);
-
     while (1)
     {
         system("clear");
